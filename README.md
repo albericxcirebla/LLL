@@ -9,7 +9,7 @@ Set of Operations for handling Crypto including:
 
 * Digital Signatures (ECDSA, Schnorr, Hash Based)
 * Hashing (SHA3 / Notable Secure Algorithms)
-* Encyrption (Symmetric / Assymetric)
+* Encryption (Symmetric / Assymmetric)
 * Post-Quantum Cyrptography (Experimental)
 
 
@@ -24,7 +24,7 @@ Set of Templates for designing high efficiency database systems. Core templates 
 
 ### Lower Level Protocol
 
-Set of Client / Server templates for efficient data handling. Processes over 10k connections per server. Inhereit and create custom packet types to write a new protocol with ease and no network programming required.
+Set of Client / Server templates for efficient data handling. Processes over 10k connections per server. Inherit and create custom packet types to write a new protocol with ease and no network programming required.
 
 * Data Server
 * Listening Server
@@ -64,7 +64,7 @@ This is a foundational piece of Nexus that can be rebased over a Nexus branch to
 * Custom MySQL Servers
 * Custom WebServers
 * Custom Protocols
-* Scaleable Databases
+* Scalable Databases
 
 These core templates can be expanded in any way by inheriting the base templates and creating any type of new backend that one would like.
 
